@@ -24,4 +24,4 @@ AI 작가와 나눈 대화는 당신만을 위한 특별한 '이야기 카드'�
 
 ---
 © 2026 ODHA. All rights reserved.
-[고객 지원(Support)]([https://support.odha.com](https://youfromstar.github.io/byuldang/support.html)) | [개인정보 처리방침]((https://youfromstar.github.io/byuldang/policy.html))
+[고객 지원(Support)](https://youfromstar.github.io/byuldang/support.html) | [개인정보 처리방침](https://youfromstar.github.io/byuldang/policy.html)
